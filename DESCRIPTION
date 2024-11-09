@@ -9,7 +9,6 @@ Depends:
     R (>= 3.5.0),
     cowplot (>= 1.0.0),
     colorspace (>= 1.4-0),
-    colorblindr (>= 0.1.0),
     dplyr (>= 0.7.4)
 Imports:
     ggplot2 (>= 2.2.1),
@@ -17,6 +16,7 @@ Imports:
     rstanarm
 Suggests:
     tidyr,
+    colorblindr,
     knitr
 License: MIT + file LICENSE
 LazyData: true
